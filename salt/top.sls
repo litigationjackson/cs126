@@ -1,3 +1,3 @@
 base:
     '*':
-        -user
+        -lab6
